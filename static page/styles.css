@@ -1,0 +1,49 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    background-color:beige;
+    color:white;
+    background-repeat: no-repeat;
+    background-image: url(./backgroound2.jfif);
+    background-size: 100% 100%;
+    align-items: center;
+    padding: 2rem;
+}
+
+footer {
+    background-color:black;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+img{
+  align-items: center;
+  width: 300px;
+  height: 300px;
+
+}
+
+
